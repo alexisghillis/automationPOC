@@ -1,0 +1,6 @@
+PP|https://portal.mars-pp.mgi.de/wso2-api-wrapper/login|alexis_publisher,admin;alexis_subscriber,admin|http://10.21.100.25:8282/cars_auto/1.0/carlist.json|3|uat|uatAccessToken
+DEV|http://lxsrvmgi1900.mgi.de:8080/wso2-api-wrapper|alexis_publisher,admin;alexis_subscriber,admin|http://10.21.119.163:8283/cars_auto/1.0/carlist.json|4|prod|productionAccessToken
+PP|https://portal.mars-pp.mgi.de/wso2-api-wrapper/login|alexis_publisher,admin;alexis_subscriber,admin|http://164.139.170.78:8280/cars_auto_perf/1.0/carlist.json|4|prodValidityPeriod|prodGenerateButton|productionAccessToken
+DEV|http://lxsrvmgi1900.mgi.de:8080/wso2-api-wrapper|alexis_publisher,admin;alexis_subscriber,admin|http://10.21.119.163:8283/cars_auto_perf/1.0/carlist.json|4|prodValidityPeriod|prodGenerateButton|productionAccessToken
+P|https://portal.mars.mgi.de/wso2-api-wrapper/login|alexis_publisher,admin;alexis_subscriber,admin|http://10.21.3.38:8280/cars_auto/carlist.json|4|prodValidityPeriod|prodGenerateButton|productionAccessToken
+P|http://10.96.210.87/wso2-api-wrapper/|alexis_publisher,admin;alexis_subscriber,admin|http://10.96.210.84:8280/cars_auto_perf/1.0/carlist.json|4|prodValidityPeriod|prodGenerateButton|productionAccessToken
